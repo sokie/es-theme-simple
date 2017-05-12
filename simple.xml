@@ -21,7 +21,7 @@ license:		creative commons CC-BY-NC-SA
 
     <view name="basic, detailed">
 
-		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
+		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite">
 			<color>393a3b</color>
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./art/OPENSANS-LIGHT.TTF</fontPath>
@@ -38,6 +38,13 @@ license:		creative commons CC-BY-NC-SA
 		</text>
 
 		<text name="md_description">
+			<color>393a3b</color>
+			<forceUppercase>1</forceUppercase>
+			<fontPath>./art/OPENSANS-LIGHT.TTF</fontPath>
+			<fontSize>0.03</fontSize>
+		</text>
+
+		<text name="md_favorite">
 			<color>393a3b</color>
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./art/OPENSANS-LIGHT.TTF</fontPath>
